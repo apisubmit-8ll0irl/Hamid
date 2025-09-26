@@ -5,8 +5,8 @@
   ],
   "routes": [
     { "src": "/kamran", "dest": "/kamran.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" },
+    { "src": "/ashraf", "dest": "/ashraf.js" },
+    { "src": "/ashrafpass", "dest": "/ashrafpass.js" },
     { "src": "/waris", "dest": "/waris.js" },
     { "src": "/kashif", "dest": "/kashif.js" },
     { "src": "/kashifpass", "dest": "/kashifpass.js" },
