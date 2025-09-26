@@ -10,8 +10,8 @@
     { "src": "/waris", "dest": "/waris.js" },
     { "src": "/kashif", "dest": "/kashif.js" },
     { "src": "/kashifpass", "dest": "/kashifpass.js" },
-    { "src": "/rashid2", "dest": "/rashid2.js" }, 
-    { "src": "/rashid2pass", "dest": "/rashid2pass.js" },
+    { "src": "/hadi", "dest": "/hadi.js" }, 
+    { "src": "/hadipass", "dest": "/hadipass.js" },
     { "src": "/warispass", "dest": "/warispass.js" },
     { "src": "/kamranpass", "dest": "/kamranpass.js" }
   ]
